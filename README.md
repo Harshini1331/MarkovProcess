@@ -22,6 +22,9 @@ Assumptions for Markov Chain :
 ![image](https://user-images.githubusercontent.com/104613195/170175685-c6187523-f268-4a3b-b03d-8bbe62647a57.png)
 
 # Program :
+### Developed by
+### Register Number: 212220230022
+### Name: Harshini M
 ```python
 import numpy as np
 P0=[0.3,0.2,0.5]
